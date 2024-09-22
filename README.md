@@ -3,11 +3,9 @@
 
 ## Group elements
 
-Identify all group elements (numbers and names).
-
-- up202306564 Filipe Silva Pinto Lopes
-- up202307756 João Rodrigues Vila Cova
-- up202108167 Ana Frederica Ferreira e Pereira
+- Filipe Silva Pinto Lopes
+- João Rodrigues Vila Cova
+- Ana Frederica Ferreira e Pereira
 
 
 ## Accomplished tasks
