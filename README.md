@@ -1,6 +1,8 @@
 
 # Programming project
 
+Change the readSVG.cpp, SVGElements.cpp and SVGElements.hpp
+
 ## Group elements
 
 - Filipe Silva Pinto Lopes
